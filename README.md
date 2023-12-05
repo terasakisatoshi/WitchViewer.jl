@@ -1,4 +1,4 @@
-# WitchViewer.jl
+# [WitchViewer.jl](https://terasakisatoshi.github.io/WitchViewer.jl/)
 
 WitchViewer.jl using WebAssemblyCompiler.jl
 
@@ -6,7 +6,7 @@ WitchViewer.jl using WebAssemblyCompiler.jl
 
 # Description
 
-This repository implements `WitchViewer` that exhibits an image of Japanese anime-style witch dressed in a certain color outfit with lavish gold embroidery. You can select the image by modifying `Index` controller. 
+This repository implements [`WitchViewer`](https://terasakisatoshi.github.io/WitchViewer.jl/) that exhibits an image of Japanese anime-style witch dressed in a certain color outfit with lavish gold embroidery. You can select the image by modifying `Index` controller. 
 
 These images can be found at the following links:
 
