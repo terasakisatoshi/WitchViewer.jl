@@ -1,0 +1,6 @@
+[deps]
+LiveServer = "16fef848-5104-11e9-1b77-fb7a48bbb589"
+WebAssemblyCompiler = "9bc180e8-272c-4d08-a460-9682f1716cbe"
+
+[compat]
+WebAssemblyCompiler = "0.1"
