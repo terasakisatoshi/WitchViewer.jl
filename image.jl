@@ -24,14 +24,14 @@ end
 
     WITCH_IMAGES = [
         # https://x.com/MathSorcerer/status/1732058284285411795?s=20
-        "https://pbs.twimg.com/media/GAmBjZSa4AAapN9?format=jpg&name=large",
-        "https://pbs.twimg.com/media/GAmBmIRbEAAyHXc?format=jpg&name=large",
-        "https://pbs.twimg.com/media/GAmBpDFbgAAhD_7?format=jpg&name=large",
+        "https://pbs.twimg.com/media/GAmBjZSa4AAapN9?format=png&name=large",
+        "https://pbs.twimg.com/media/GAmBmIRbEAAyHXc?format=png&name=large",
+        "https://pbs.twimg.com/media/GAmBpDFbgAAhD_7?format=png&name=large",
         # https://x.com/MathSorcerer/status/1732057090657804303?s=20
-        "https://pbs.twimg.com/media/GAl_-CraUAAmgVJ?format=jpg&name=large",
-        "https://pbs.twimg.com/media/GAmAAloa4AAzmB2?format=jpg&name=large",
-        "https://pbs.twimg.com/media/GAmAdV1akAA_zwZ?format=jpg&name=large",
-        "https://pbs.twimg.com/media/GAmAt7aa4AAERBE?format=jpg&name=large",
+        "https://pbs.twimg.com/media/GAl_-CraUAAmgVJ?format=png&name=large",
+        "https://pbs.twimg.com/media/GAmAAloa4AAzmB2?format=png&name=large",
+        "https://pbs.twimg.com/media/GAmAdV1akAA_zwZ?format=png&name=large",
+        "https://pbs.twimg.com/media/GAmAt7aa4AAERBE?format=png&name=large",
     ]
     u = WITCH_IMAGES[idx]
 
