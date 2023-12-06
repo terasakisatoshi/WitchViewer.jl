@@ -1,5 +1,6 @@
 [deps]
 LiveServer = "16fef848-5104-11e9-1b77-fb7a48bbb589"
+OpenCV = "f878e3a2-a245-4720-8660-60795d644f2a"
 WebAssemblyCompiler = "9bc180e8-272c-4d08-a460-9682f1716cbe"
 
 [compat]
