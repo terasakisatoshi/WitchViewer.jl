@@ -6,7 +6,7 @@ WitchViewer.jl using WebAssemblyCompiler.jl
 
 # Description
 
-This repository implements [`WitchViewer`](https://terasakisatoshi.github.io/WitchViewer.jl/) that exhibits an image of Japanese anime-style witch dressed in a certain color outfit with lavish gold embroidery. You can select the image by modifying `Index` controller. 
+This repository implements [`WitchViewer`](https://terasakisatoshi.github.io/WitchViewer.jl/) that exhibits some images represent Japanese anime-style witch dressed in a certain color outfit with lavish gold embroidery. You can select the image by modifying `Index` controller.
 
 These images can be found at the following links:
 
@@ -26,6 +26,8 @@ $ git clone https://github.com/terasakisatoshi/WitchViewer.jl.git
 $ cd WitchViewer.jl
 $ python -m http.server 8000
 ```
+
+Of course you can use `julia -e 'using LiveServer; serve(port=8000)'`.
 
 Then, open your web browser and go to `localhost:8000`.
 
