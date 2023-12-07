@@ -31,7 +31,7 @@ Of course you can use `julia -e 'using LiveServer; serve(port=8000)'`.
 
 Then, open your web browser and go to `localhost:8000`.
 
-# Building `image.wasm` file by yourself.
+# Building `./image/*.wasm` file by yourself.
 
 If you want to update `WitchViewer`, you have to modify code in `index.html`, `image.jl`. Then, run the following commands to update files in `./image` directory:
 

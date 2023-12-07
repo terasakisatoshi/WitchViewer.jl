@@ -6,3 +6,4 @@ jsexports['js']['(x,sep) => x.join(sep)'] = (x,sep) => x.join(sep);
 jsexports['js']['x => mdpad[x]'] = x => mdpad[x];
 jsexports['js']['n => Array(n)'] = n => Array(n);
 jsexports['js']['n => new Uint8Array(n)'] = n => new Uint8Array(n);
+jsexports['js']['() => Math.random()'] = () => Math.random();

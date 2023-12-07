@@ -4,9 +4,9 @@
    <script src="js/mdpad.js" ></script>
    <script src="image/image.wasm.js"></script>
    <script>
-      mdpad = {seed: 1}
+      mdpad = {index: 1}
       setTimeout(function() {
-          x = document.getElementById("myDiv")
+          x = document.getElementById("myOshi")
           if (x.innerHTML === "") {
               x.innerHTML = "<bold>Unsupported browser.</bold> Chrome v119 or Firefox v120 or better should work."
           }
@@ -36,6 +36,7 @@
             </form>
          </div>
       </div>
+      <button onclick="wasm.random_select()">Random</button>
       <div id="myOshi"></div>
    </body>
 </html>
